@@ -1,0 +1,8 @@
+.vs/
+out/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.cam.json
+!config/*.json

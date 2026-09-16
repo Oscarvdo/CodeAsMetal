@@ -1,0 +1,16 @@
+OSCAR — CODEASMETAL V1 / VISUAL STUDIO 2026
+
+1. Lee README_ES.md.
+2. En Developer PowerShell for VS 2026, dentro de esta carpeta:
+   .\scripts\prepare-dependencies.ps1
+3. Reinicia Visual Studio.
+4. Abre CodeAsMetal.slnx.
+5. Debug / x64 -> Build Solution -> F5.
+
+Basado en tu template original. Su GUID, recursos y nombre se conservaron.
+El Win32 educativo está en legacy/Win32Template.
+
+Esta entrega incluye fuente, no un EXE compilado.
+22 pruebas del núcleo pasaron. Compilación y ejecución Windows pendientes.
+Consulta docs/acceptance-and-scope.md: define con precisión lo implementado
+frente a las capacidades todavía pendientes del roadmap original.

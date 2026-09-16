@@ -1,0 +1,27 @@
+﻿{
+    "generatedUtc":  "2026-09-16T07:20:18.6831674Z",
+    "vcpkg":  {
+                  "root":  "C:\\dev\\vcpkg-codeasmetal",
+                  "ref":  "2025.12.12",
+                  "commit":  "84bab45d415d22042bd0b9081aea57f362da3f35"
+              },
+    "triplet":  "x64-windows",
+    "packages":  {
+                     "qtbase":  {
+                                    "version":  "6.9.3",
+                                    "features":  [
+                                                     "widgets",
+                                                     "sql-odbc"
+                                                 ]
+                                },
+                     "opencascade":  {
+                                         "version":  "7.9.3"
+                                     },
+                     "gtest":  {
+                                   "version":  "1.17.0#2"
+                               }
+                 },
+    "tools":  {
+                  "windeployqt":  "C:\\dev\\vcpkg-codeasmetal\\installed\\x64-windows\\tools\\Qt6\\bin\\windeployqt.exe"
+              }
+}
